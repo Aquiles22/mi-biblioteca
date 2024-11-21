@@ -1,4 +1,4 @@
-module github.com/Aquiles22/mi-biblioteca.git
+module github.com/Aquiles22/mi-biblioteca
 
 go 1.23.1
 
